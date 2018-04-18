@@ -4,7 +4,7 @@
 
 > 本仓库个人用于文档整理、收集。
 
-本站点使用[docsify](https://github.com/QingWei-Li/docsify)静态生成，感觉`docsify`作者贡献出这么好用的工具。
+本站点使用[docsify](https://github.com/QingWei-Li/docsify)静态生成，感谢`docsify`作者贡献出这么好用的工具。
 
 
 如果您发现哪里有错误，欢迎指正并提交`PR`,我将会及时核对并合并。
