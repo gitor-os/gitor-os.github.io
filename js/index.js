@@ -1,1 +1,1 @@
-var vm = new Vue({    // 选项    el: '#app',    data:{        a:22    },    methods: {        a:function () {        }    }})
+var vm = new Vue({    // 选项    el: '#app',    data:{        title:"文档收集"    },    methods: {    }})
