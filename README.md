@@ -17,8 +17,9 @@
 
 ## 本地使用 
 
-- 如果需要本地离线使用，首先要安装 `docsify`，具体方法可参考其官方文档。
+> 如果你想把整个仓库下载到本地查看，请参照以下步骤
 
+- 首先 `git clone https://github.com/gitor-os/gitor-os.github.io.git` 克隆项目到本地。
+- 然后要安装 `docsify`，具体方法可参考其官方文档。
 - 安装好`docsify`以后，在本项目根目录执行```docsify serve ./```，然后在浏览器
 输入 ```localhost:3000``` 即可预览效果
-
